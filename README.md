@@ -105,7 +105,7 @@ The performance screen displays an uncluttered visual representation of active s
 
 1. Connect your norns via Wi-Fi and open [Maiden](https://monome.org/docs/norns/maiden/).
 2. In the Maiden REPL prompt, run:
-   ;install https://github.com/<your-username>/buclarp
+   ;install https://github.com/sumik-svg/buclarp
 (Or create a directory named buclarp inside dust/code/ and place buclarp.lua inside).
 3. Launch buclarp from the norns script selector.
 Requirements
